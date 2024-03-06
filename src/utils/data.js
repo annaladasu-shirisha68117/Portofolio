@@ -23,7 +23,6 @@ export const SKILLS = [
         skills: [
             {skills: "Git & Github",percentage:"85%"},
             {skills: "Visual Studio Code",percentage:"80%"},
-            {skills: "Webpack",percentage:"60%"},
             {skills: "Responsive Design" ,percentage:"70%"},
         ],
     },
@@ -39,30 +38,21 @@ export const SKILLS = [
 ]
 export const WORK_EXPERIENCE = [
     {
-        title:"Junior Frontend Developer at Tech Innovators",
-        date: "January 2023 -Present",
+        title:"Junior Frontend Developer at Federal Soft Systems",
+        date: "June 2023 -Present",
         responsibilties: [
             "Implemented advanced CSS animated and transitions to enhance the overall user experience.",
-            "Collabored with UX/UI designers to translate wireframes and mockups into responsive and interactive web",
-            "Introduced and integrated Vue.js into the tech stack, improving code maintainability and development efficiency"
+            "Ensure that the applications work consistently across different web browsers and devices. Also, test and debug code to address any compatibility issues that may arise.",
+            "Use CSS preprocessors like Sass or Less to enhance CSS with variables and functions. Hence, making stylesheets more maintainable and reusable.",
+            "Create a positive user experience by ensuring intuitive and user-friendly interfaces."
         ],
     },
     {
-        title:"Junior Web Developer at FSS",
-        date: "January 2023 - January 2024",
-        responsibilties: [
-            "Developed and maintained client websites, ensuring high-quality standards and timely project delivery",
-            "Implemented SEO best pratices, leading to a 25% increase in organic search traffic for key clients",
-            "Worked closely with the design team to create pixel-perfect, cross-browser-compatible web pages",
-            "Conducted code review and mentored junior developers in adopting best coding pratices.",
-        ],
-    },
-    {
-        title:"Frontend Intern at FSS",
+        title:"Frontend Intern at Federal Soft Systems",
         date: "January 2023 - June 2023",
         responsibilties: [
-            "Assisted in the development of a new e-commerce platform, contributing to the implementation of frontend",
-            "Conducted performance optimization tasks , resulting in a 15% improvment in page load time.",
+            "Optimize code for performance, ensuring fast loading times and smooth user experiences.",
+            "Write well-structured code that is easy to maintain and understand.",
             "Participated in daily stand-up meetings and collaborated with senior developers to troubleshoot and resolve",
             "Gained hands-on experience with version control systems, specifically Git,in a collaborative developement",
         ],
