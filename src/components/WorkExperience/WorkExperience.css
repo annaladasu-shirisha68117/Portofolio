@@ -7,6 +7,12 @@
     font-weight: 600;
     margin-bottom: 3rem;
 }
+
+.slick-slide {
+ width: 618px !important;
+}
+
+
 .arrow-left,
 .arrow-right {
     width: 2.2rem;

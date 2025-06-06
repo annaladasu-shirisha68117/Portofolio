@@ -3,7 +3,7 @@ import "./Footer.css"
 
 const Footer = () => {
  return (
-    <div className="footer">@ 2024 Time To Program, Happpy Coding</div>
+    <div className="footer">Less code, more clarity.</div>
  )
 }
 export default Footer;

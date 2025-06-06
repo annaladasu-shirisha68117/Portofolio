@@ -3,6 +3,8 @@ import './SkillsInfoCard.css'
 
 const SkillsInfoCard = ({ heading, skills }) => {
   return (
+     <div className="card">
+    <div className="rotating-border-card"> </div>
     <div className="skills-info-card">
       <h6>{heading}</h6>
 
@@ -19,7 +21,9 @@ const SkillsInfoCard = ({ heading, skills }) => {
             </div>
           </React.Fragment>
         ))}
+     
       </div>
+    </div>
     </div>
   );
 }
