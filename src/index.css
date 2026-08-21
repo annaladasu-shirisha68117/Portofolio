@@ -2,3 +2,15 @@ body {
   color: white;
   background-color: black;
 }
+
+body {
+  cursor: none;
+}
+
+a,
+button,
+input,
+textarea,
+select {
+  cursor: none;
+}

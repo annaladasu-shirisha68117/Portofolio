@@ -21,7 +21,7 @@ const Main = () => {
               <div className="tech-icon">
                 <img src="./Images/reactjs.png" width="80" alt="" />
               </div>
-              <img src="./Images/Devgirl.png" alt="" className="shadow" />
+              <img src="./Images/porto-Photoroom.png" alt="" className="shadow" />
             </div>
             <div>
               <div className="tech-icon">

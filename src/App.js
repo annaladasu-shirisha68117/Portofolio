@@ -6,9 +6,14 @@ import Main from './components/Main/Main';
 import Skills from './components/Skills/Skills';
 import WorkExperience from './components/WorkExperience/WorkExperience';
 import ContactMe from './components/ContactMe/ContactMe';
+import CustomCursor from './components/Common/CustomCursor';
+import PageLoader from './components/PageLoader/PageLoader';
 
 function App() {
   return (
+    <>
+    <PageLoader/>
+    <CustomCursor/>
     <Router>
       <Navbar />
       <div className="container">
@@ -21,6 +26,7 @@ function App() {
       </div>
       <Footer />
     </Router>
+    </>
   );
 }
 
